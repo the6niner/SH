@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("This script has been taken down: lack of activity + no suggestions\nit was fun while it lasted.")
+game.Players.LocalPlayer:Kick("SLAYERS HUB MODERATION\nThis script has been discontinued due to:\nlack of activity and no suggestions, Sorry.")
